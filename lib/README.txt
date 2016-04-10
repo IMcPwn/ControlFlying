@@ -1,0 +1,1 @@
+This folder is for Bukkit/Spigot jar files that are required to compile the plugin.
